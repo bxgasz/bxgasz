@@ -4,7 +4,7 @@ Hi 👋 My name is Bagas Sahadewa
 I'm web developer
 -----------------
 
-i've been learning about web devloper for 2 years and i'm still learning about it, i love to learn new thing.
+nah i'd adapt
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [bagassahadewa2@gmail.com](mailto:bagassahadewa2@gmail.com)
